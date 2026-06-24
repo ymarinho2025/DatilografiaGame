@@ -27,17 +27,17 @@ PHASES = [
         "source": "Verso 1 a 12",
         "text": (
             "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará. "
-            "² Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei. "
-            "³ Porque ele te livrará do laço do passarinheiro, e da peste perniciosa. "
-            "⁴ Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás; a sua verdade será o teu escudo e broquel. "
-            "⁵ Não terás medo do terror de noite nem da seta que voa de dia, "
-            "⁶ Nem da peste que anda na escuridão, nem da mortandade que assola ao meio-dia. "
-            "⁷ Mil cairão ao teu lado, e dez mil à tua direita, mas não chegará a ti. "
-            "⁸ Somente com os teus olhos contemplarás, e verás a recompensa dos ímpios. "
-            "⁹ Porque tu, ó Senhor, és o meu refúgio. No Altíssimo fizeste a tua habitação. "
-            "¹⁰ Nenhum mal te sucederá, nem praga alguma chegará à tua tenda. "
-            "¹¹ Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos. "
-            "¹² Eles te sustentarão nas suas mãos, para que não tropeces com o teu pé em pedra alguma. "
+            "Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei. "
+            "Porque ele te livrará do laço do passarinheiro, e da peste perniciosa. "
+            "Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás; a sua verdade será o teu escudo e broquel. "
+            "Não terás medo do terror de noite nem da seta que voa de dia, "
+            "Nem da peste que anda na escuridão, nem da mortandade que assola ao meio-dia. "
+            "Mil cairão ao teu lado, e dez mil à tua direita, mas não chegará a ti. "
+            "Somente com os teus olhos contemplarás, e verás a recompensa dos ímpios. "
+            "Porque tu, ó Senhor, és o meu refúgio. No Altíssimo fizeste a tua habitação. "
+            "Nenhum mal te sucederá, nem praga alguma chegará à tua tenda. "
+            "Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos. "
+            "Eles te sustentarão nas suas mãos, para que não tropeces com o teu pé em pedra alguma. "
 
         ),
     },
