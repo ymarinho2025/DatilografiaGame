@@ -24,56 +24,104 @@ PHASES = [
     },
     {
         "title": "Salmo 91",
-        "source": "paráfrase autoral baseada no tema do Salmo 91",
+        "source": "Verso 1 a 12",
         "text": (
-            "Quem escolhe descansar sob a proteção do Altíssimo encontra abrigo mesmo quando a noite "
-            "parece cercar tudo. A confiança não elimina as lutas, mas lembra que Deus cuida do caminho, "
-            "guarda a entrada e sustenta o coração quando o medo tenta ocupar o lugar da fé."
+            "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará."
+            "² Direi do Senhor: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei."
+            "³ Porque ele te livrará do laço do passarinheiro, e da peste perniciosa."
+            "⁴ Ele te cobrirá com as suas penas, e debaixo das suas asas te confiarás; a sua verdade será o teu escudo e broquel."
+            "⁵ Não terás medo do terror de noite nem da seta que voa de dia,"
+            "⁶ Nem da peste que anda na escuridão, nem da mortandade que assola ao meio-dia."
+            "⁷ Mil cairão ao teu lado, e dez mil à tua direita, mas não chegará a ti."
+            "⁸ Somente com os teus olhos contemplarás, e verás a recompensa dos ímpios."
+            "⁹ Porque tu, ó Senhor, és o meu refúgio. No Altíssimo fizeste a tua habitação."
+            "¹⁰ Nenhum mal te sucederá, nem praga alguma chegará à tua tenda."
+            "¹¹ Porque aos seus anjos dará ordem a teu respeito, para te guardarem em todos os teus caminhos."
+            "¹² Eles te sustentarão nas suas mãos, para que não tropeces com o teu pé em pedra alguma."
+
         ),
     },
     {
         "title": "Bella ciao",
-        "source": "texto autoral inspirado em coragem e resistência",
+        "source": "texto autoral",
         "text": (
-            "Ao longe, uma voz se levanta contra a sombra e chama os cansados para ficarem de pé. "
-            "Não é uma fuga, é uma escolha de coragem. Cada letra batida na máquina parece dizer que a "
-            "liberdade nasce quando alguém decide não se calar diante da noite."
+            "Una mattina mi son' svegliato"
+            "O bella ciao, bella ciao, bella ciao, ciao, ciao"
+            "Una mattina mi son' svegliato"
+            "E ho trovato l'invasor"
+            "O partigiano, portami via"
+            "O bella ciao, bella ciao, bella ciao, ciao, ciao"
+            "O partigiano, portami via"
+            "Ché mi sento di morir"
+
         ),
     },
     {
-        "title": "Moça do paninho branco",
-        "source": "texto autoral inspirado no título",
+        "title": "Corre Cotia",
+        "source": "brincadeira infantil",
         "text": (
-            "Na janela da rua antiga, a moça segura um paninho branco como quem guarda uma lembrança "
-            "pequena demais para explicar e grande demais para esquecer. O tecido balança no vento, "
-            "marcando o ritmo da carta que precisa atravessar a mesa antes que a luz se apague."
+            "Corre, cotia, na casa da tia."
+            "Corre, cipó, na casa da vó."
+            "Lencinho na mão, caiu no chão."
+            "Moça bonita do meu coração."
+            "Posso jogar?"
+            "Ninguém vai olhar?"
+
         ),
     },
     {
         "title": "Tempo perdido",
-        "source": "texto autoral inspirado em memória e passagem do tempo",
+        "source": "texto autoral",
         "text": (
-            "O relógio da parede insiste em correr, mas a máquina de escrever prova que ainda existe "
-            "tempo para transformar pressa em sentido. O passado não volta, mas cada frase correta "
-            "organiza a memória e abre uma passagem para o que ainda pode ser vivido."
+            "Todos os dias quando acordo"
+            "Não tenho mais o tempo que passou"
+            "Mas tenho muito tempo"
+            "Temos todo tempo do mundo"
+            "Todos os dias, antes de dormir"
+            "Lembro e esqueço como foi o dia"
+            "Sempre em frente"
+            "Não temos tempo a perder"
+            "Nosso suor sagrado"
+            "É bem mais belo que esse sangue amargo"
+            "E tão sério"
+            "E selvagem"
+            "Selvagem"
+            "Selvagem"
         ),
     },
     {
-        "title": "Mulher de fase",
-        "source": "texto autoral inspirado em mudança e imprevisibilidade",
+        "title": "Mulher de fases",
+        "source": "texto autoral",
         "text": (
-            "A página muda de clima como céu de verão. Uma linha parece calma, a outra chega cheia "
-            "de tempestade, e a próxima já sorri de novo. Para vencer esta fase, não basta velocidade; "
-            "é preciso acompanhar cada mudança sem perder a ordem das letras."
+            "Complicada e perfeitinha"
+            "Você me apareceu"
+            "Era tudo o que eu queria"
+            "Estrela da sorte"
+            "Quando à noite ela surgia"
+            "Meu bem, você cresceu"
+            "Meu namoro é na folhinha"
+            "Mulher de fases"
+            "Põe fermento, põe as bombas"
+            "Qualquer coisa que aumente"
+            "A deixe bem maior que o Sol"
+            "Pouca gente sabe que, na noite"
+            "O frio é quente e arde, eu acendi"
         ),
     },
     {
         "title": "Vamos fugir",
         "source": "texto autoral inspirado em viagem e recomeço",
         "text": (
-            "A estrada imaginária começa no canto do papel e atravessa praias, pontes e cidades "
-            "inventadas. Fugir, aqui, não é abandonar tudo, mas procurar um lugar onde a coragem respire "
-            "melhor e onde a carta encontre um destino antes do amanhecer."
+            "Vamos fugir"
+            "Deste lugar, baby"
+            "Vamos fugir"
+            "To cansado de esperar"
+            "Que voce me carregue"
+            "Vamos fugir"
+            "Pra outro lugar, baby"
+            "Vamos fugir"
+            "Pra onde quer que você va"
+            "Que você me carregue"
         ),
     },
 ]
